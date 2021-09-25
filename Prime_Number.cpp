@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 // Befor using two pointer alogrithm we must be care
 // that an array must be sort 
 
